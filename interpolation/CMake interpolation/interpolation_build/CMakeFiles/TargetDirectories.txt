@@ -1,0 +1,4 @@
+D:/Учеба/СТЦ/interpolation/CMake interpolation/interpolation_build/CMakeFiles/Main.dir
+D:/Учеба/СТЦ/interpolation/CMake interpolation/interpolation_build/CMakeFiles/ALL_BUILD.dir
+D:/Учеба/СТЦ/interpolation/CMake interpolation/interpolation_build/CMakeFiles/ZERO_CHECK.dir
+D:/Учеба/СТЦ/interpolation/CMake interpolation/interpolation_build/Math/CMakeFiles/Math.dir

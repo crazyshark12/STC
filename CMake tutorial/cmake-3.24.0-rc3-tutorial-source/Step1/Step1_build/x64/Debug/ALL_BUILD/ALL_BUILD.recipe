@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Учеба\СТЦ\CMake tutorial\cmake-3.24.0-rc3-tutorial-source\Step1\Step1_build\Debug\Tutorial.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Учеба\СТЦ\CMake tutorial\cmake-3.24.0-rc3-tutorial-source\Step1\Step1_build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs>
+    <NonRecipeFileRef>
+      <FullPath>D:\Учеба\СТЦ\CMake tutorial\cmake-3.24.0-rc3-tutorial-source\Step1\Step1_build\ZERO_CHECK.proj</FullPath>
+    </NonRecipeFileRef>
+  </NonRecipeFileRefs>
+</Project>
